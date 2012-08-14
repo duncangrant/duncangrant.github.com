@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Hello World!
-tagline: Supporting tagline
+tagline: Ignorance, Apathy, Selfishness 
+
 ---
 {% include JB/setup %}
 
