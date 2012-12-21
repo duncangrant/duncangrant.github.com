@@ -9,7 +9,7 @@ title: Posts
   {% for post in site.posts %}
     <dt><div><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
     <span>{{ post.date | date_to_string }}</span>
-    </div></dt><dd><p>{{ post.content }}</p></dd></li>
+    </div></dt><dd><p>{{ post.content }}</p></dd>
   {% endfor %}
 </dl>
 
