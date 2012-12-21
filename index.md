@@ -12,7 +12,7 @@ title: Posts
     </div></dt><dd><p>{{ post.content }}</p>
     <p>
     {% unless post.tags == empty %}
-      <ul class="tag_box">
+      <ul class="tag_vertical">
       {% assign tags_list = post.tags %}
       {% include JB/tags_list %}
       </ul>
