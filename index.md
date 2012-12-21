@@ -5,13 +5,13 @@ title: Posts
 ---
 {% include JB/setup %}
 
-<ul class="posts">
+<dl class="posts">
   {% for post in site.posts %}
-    <li><div><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+    <dt><div><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
     <span>{{ post.date | date_to_string }}</span>
-    <p>{{ post.content }}</p></div></li>
+    </div></dt><dd><p>{{ post.content }}</p></dd></li>
   {% endfor %}
-</ul>
+</dl>
 
 
 
