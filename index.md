@@ -12,7 +12,6 @@ title: Posts
     </div></dt><dd><p>{{ post.content }}</p>
     <p>
     {% unless post.tags == empty %}
-      <h4>Tags</h4>
       <ul class="tag_box">
       {% assign tags_list = post.tags %}
       {% include JB/tags_list %}
