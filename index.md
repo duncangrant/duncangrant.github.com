@@ -9,7 +9,16 @@ title: Posts
   {% for post in site.posts %}
     <dt><div><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
     <span>{{ post.date | date_to_string }}</span>
-    </div></dt><dd><p>{{ post.content }}</p></dd>
+    </div></dt><dd><p>{{ post.content }}</p>
+    <p>
+    {% unless post.tags == empty %}
+      <h4>Tags</h4>
+      <ul class="tag_box">
+      {% assign tags_list = post.tags %}
+      {% include JB/tags_list %}
+      </ul>
+    {% endunless %}
+    </p></dd>
   {% endfor %}
 </dl>
 
