@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Hello World!
+title: Posts
 
 ---
 {% include JB/setup %}
-
-## Posts
 
 <ul class="posts">
   {% for post in site.posts %}
