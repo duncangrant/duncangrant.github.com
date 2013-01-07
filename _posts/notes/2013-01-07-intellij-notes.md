@@ -8,11 +8,10 @@ title: code review in intellij
 To do a code review in intellij:
 
 1. In console
-    
-      git fetch
+
+        git fetch
     
 1. In intellij
     
-    VCS -> git -> Branches
-    
-    upsteam/develop -> compare
+        VCS -> git -> Branches
+        upsteam/develop -> compare
