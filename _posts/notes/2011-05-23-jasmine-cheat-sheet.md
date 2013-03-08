@@ -7,4 +7,4 @@ title: jasmine cheat sheet
 
 ---
 
-http://cheat.errtheblog.com/s/jasmine/
+[http://cheat.errtheblog.com/s/jasmine/](http://cheat.errtheblog.com/s/jasmine/)

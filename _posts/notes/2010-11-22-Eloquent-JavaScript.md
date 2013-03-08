@@ -7,4 +7,4 @@ title: Eloquent JavaScript
 
 ---
 
-http://eloquentjavascript.net/
+[http://eloquentjavascript.net/](http://eloquentjavascript.net/)

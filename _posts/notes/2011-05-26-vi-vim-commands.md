@@ -27,4 +27,4 @@ title: vi vim commands
 z= suggest alternative
 zg add word to dictionary
 
-http://www.viemu.com/vi-vim-cheat-sheet.gif
+[http://www.viemu.com/vi-vim-cheat-sheet.gif](http://www.viemu.com/vi-vim-cheat-sheet.gif)

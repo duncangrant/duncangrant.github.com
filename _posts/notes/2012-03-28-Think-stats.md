@@ -7,4 +7,4 @@ title: Think stats
 
 ---
 
-http://www.greenteapress.com/thinkstats/html/index.html
+[http://www.greenteapress.com/thinkstats/html/index.html](http://www.greenteapress.com/thinkstats/html/index.html)

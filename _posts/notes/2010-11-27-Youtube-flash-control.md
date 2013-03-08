@@ -7,4 +7,4 @@ title: Youtube flash control
 
 ---
 
-http://code.google.com/apis/youtube/flash_api_reference.html#Loading
+[http://code.google.com/apis/youtube/flash_api_reference.html#Loading](http://code.google.com/apis/youtube/flash_api_reference.html#Loading)

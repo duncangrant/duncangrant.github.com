@@ -7,4 +7,4 @@ title: Joel on software
 
 ---
 
-http://www.joelonsoftware.com/
+[http://www.joelonsoftware.com/](http://www.joelonsoftware.com/)

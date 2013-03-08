@@ -7,4 +7,4 @@ title: Hackers bookshelf
 
 ---
 
-http://hackershelf.com/
+[http://hackershelf.com/](http://hackershelf.com/)

@@ -7,4 +7,4 @@ title: touchTyping
 
 ---
 
-http://en.wikipedia.org/wiki/Touch_typing
+[http://en.wikipedia.org/wiki/Touch_typing](http://en.wikipedia.org/wiki/Touch_typing)

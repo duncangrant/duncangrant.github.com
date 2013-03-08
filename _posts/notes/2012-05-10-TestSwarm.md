@@ -7,4 +7,4 @@ title: TestSwarm
 
 ---
 
-https://github.com/jquery/testswarm/
+[https://github.com/jquery/testswarm/](https://github.com/jquery/testswarm/)
