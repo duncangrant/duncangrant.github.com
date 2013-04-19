@@ -29,6 +29,7 @@ Basic rules
 Recommended approach to implementation is to do an 2-3 hours per week until habit begins to stick.  I don't really have time for this.  Could probably do occasional 30 minutes to encourage habit but not enough.  Might consider alternative approach where each week I pick one to focus on and try to get that one habit "fixed".  In theory I'd be proficient in 3 months.  Probably working from top to bottom wouldn't be best approach.
 
 Stuff I still haven't gotten clear about TDD - as it was outside scope of course.
+
 1. TDD for dynamic languages.  Supposedly unit tests "that you would need anyway" are the best way to ensure interface between classes is maintained.  Yet JG's approach didn't deem to enforce this.  Possibly the missing step here is the large "acceptance" test recommended in GOOS.
 
 2. TDD at the edges.  It seems like most of my work (time not code) is on the edges.  If you don't TDD interactions with 3rd party code then how do you ensure that the expected behaviour of that code doesn't change?
