@@ -3,7 +3,6 @@ layout: page
 title: Posts
 
 ---
-{% include JB/setup %}
 
 <dl class="posts">
   {% for post in site.posts %}
@@ -14,7 +13,6 @@ title: Posts
     {% unless post.tags == empty %}
       <ul class="tag_vertical">
       {% assign tags_list = post.tags %}
-      {% include JB/tags_list %}
       </ul>
     {% endunless %}
     </p></dd>
