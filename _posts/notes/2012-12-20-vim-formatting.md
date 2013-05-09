@@ -9,6 +9,6 @@ Format json
 
 	:%!python -mjson.tool
 	
-Format xml
+Format xml (requires libxml2-utils)
 
 	:%!xmllint --format -
